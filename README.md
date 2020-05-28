@@ -1,7 +1,7 @@
 # face_angle_prediction_using_ML-CV
 Based on landmark detector and euclidean distance the ML model is trained and which later used to predict the face angle as right, left, up and down.  
 
-<b>Step-1<b>
+<b>Step-1<b><br/>
 Download and place <b>shape_predictor_68_face_landmarks.dat<b> in folder from <a href = 'https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2'>here</a> <br/>
 <b>Step-2<b><br/>
 Unzip data folder and replace data in data folder
