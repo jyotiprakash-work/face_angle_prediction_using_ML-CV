@@ -27,13 +27,13 @@ python main_predict.py
 <pre style="background-color: #eeeeee; border: 1px dashed rgb(153, 153, 153); line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><span style="font-size: 12px;">
 
 <b>open terminal clean data folder</b>
-<b>open <i>Data_generation.ipynb</i></b>
+<b>open <i>Data_generation.ipynb or Data_generation.py</i></b>
 </span></span></pre>
 
 
 <br/>
 <h4> To generate the ML model execute following..</h4>
 <pre style="background-color: #eeeeee; border: 1px dashed rgb(153, 153, 153); line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><span style="font-size: 12px;">
-<b>open <i>preproseing_and_training.ipynb</i></b>
+<b>open <i>preproseing_and_training.ipynb or preproseing_and_training.py</i></b>
 </span></span></pre>
 
